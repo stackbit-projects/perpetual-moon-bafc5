@@ -65,6 +65,7 @@ sections:
           - mb-8
       actions:
         justifyContent: flex-start
+    subtitle: And it works!
   - type: FeaturedPostsSection
     variant: variant-c
     colors: colors-c
