@@ -28,7 +28,7 @@ sections:
         showIcon: false
         icon: arrowLeft
         iconPosition: right
-        style: primary
+        style: link
         elementId: ''
         type: Button
     feature:
