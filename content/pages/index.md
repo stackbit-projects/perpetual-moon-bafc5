@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-f
-    backgroundWidth: full
+    backgroundWidth: inset
     title: What a Headline this is!
     text: >-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
