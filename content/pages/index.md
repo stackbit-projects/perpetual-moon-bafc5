@@ -285,7 +285,7 @@ sections:
   - elementId: ''
     colors: colors-c
     backgroundWidth: full
-    title: The Section Title
+    title: About this!
     subtitle: The section subtitle
     text: |-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
