@@ -84,6 +84,7 @@ sections:
       - content/pages/blog/post-three.md
       - content/pages/blog/post-two.md
       - content/pages/blog/post-one.md
+      - content/pages/blog/postlayout-73dl0dpq8.md
     styles:
       self:
         height: auto
